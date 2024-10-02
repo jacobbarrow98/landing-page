@@ -15,3 +15,18 @@ footer {
 section.quote {
   background-color: #e5e7eb;
 }
+
+header {
+  display: flex;
+  flex-direction: column;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
